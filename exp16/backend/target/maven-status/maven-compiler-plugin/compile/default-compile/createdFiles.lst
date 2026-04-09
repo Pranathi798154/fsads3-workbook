@@ -1,0 +1,10 @@
+com\klu\studentcrud\entity\Student.class
+com\klu\studentcrud\service\StudentServiceImpl.class
+com\klu\studentcrud\config\CorsConfig.class
+com\klu\studentcrud\service\StudentService.class
+com\klu\studentcrud\repository\StudentRepository.class
+com\klu\studentcrud\StudentCrudApplication.class
+com\klu\studentcrud\controller\GlobalExceptionHandler.class
+com\klu\studentcrud\controller\StudentController.class
+com\klu\studentcrud\config\SwaggerConfig.class
+com\klu\studentcrud\dto\ApiErrorResponse.class
